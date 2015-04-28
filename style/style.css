@@ -1,0 +1,279 @@
+@charset "utf-8";
+/* CSS Document */
+div img body{
+	border:0px;
+	margin:0px;
+	padding:0px;	
+}
+
+/*庭院*/
+#courtyard
+{
+	width:867px;
+	height:650px;
+	background-image:url(../pic/BG/bg_1.jpg);
+	background-size:cover;
+	overflow:hidden;
+}
+
+
+
+/*Turf 草皮*/
+.Turf
+{
+	position:relative;
+}
+
+/*草坪*/
+#lawn
+{
+	position:absolute;
+	left:45px; 
+	top:99px; 
+	width:902px; 
+	/*border:black 1px solid;*/
+	
+}
+
+/*每一个小草坪 （块）*/
+.block{
+	width:87px; 
+	height:105px; 
+	float:left;
+	/*border:black 1px solid;*/
+}
+
+/*清除浮动*/
+.clear{
+	clear:both;
+}
+
+/*太阳计数 img*/
+#countenergy_img{
+	position:absolute;
+	left:42px;
+	top:25px;
+	width:40px;
+	height:40px;
+}
+
+/*太阳计数 sum*/
+#countenergy_sum{
+	position:absolute;
+	left:50px;
+	top:78px;
+	width:27px;
+	font-family:@微软雅黑;
+	font-size:13px;
+}
+
+/*铲子*/
+#Shovel
+{
+	width:70px;
+	height:70px;
+	position:absolute;
+	top:15px;
+	left:505px;
+}
+
+/*真正的铲子*/
+#relShovel
+{
+	position:absolute;
+}
+
+/*植物卡片框*/
+#plantcardborder{
+	position:absolute;
+	top:18px;
+	left:105px;
+	/*border:#CFF 1px solid;*/
+}
+
+/*植物卡片*/
+.plantcard{
+	position:relative;
+	width:50px;
+	height:73px;
+	background-size:cover;
+	float:left;
+	margin-left:6px;
+}
+
+/*爆炸辣椒*/
+.PepperAttack
+{
+	position:absolute;
+	width:790px;
+	height:100px;
+	left: 50px;
+	z-index:15;
+	background-position:0 -17px;
+}
+
+
+/*随机从天上掉落的太阳 和 向日葵吐出太阳*/
+.Randomenergy
+{
+    position:absolute;
+    width:60px;
+    height:60px;
+	z-index:20;
+    
+}
+
+
+/*植物*/
+.plant
+{
+    position:absolute;
+    top:10px;
+    left:10px;
+    width:80%;
+    height:80%;
+}
+
+
+/*零食植物*/
+#tmpplant
+{
+    position:relative;
+    top:10px;
+    left:10px;
+    width:80%;
+    height:80%;
+    opacity:0.5;
+}
+
+/*僵尸*/
+.zombies
+{
+	width: 69.594px;
+	height: 94.500px;
+	background-position: -50px -20px;
+	background-size: 180% 120%;
+	background-repeat: no-repeat;
+	position:absolute;
+	left:0px;
+	top:0px;
+	z-index:10;
+	background-image:url(../pic/zombies/images/ordinaryZombies.gif);
+}
+
+
+/*子弹*/
+.bullet
+{
+	position:absolute;
+	top:18px;
+	width:22px;
+	left:0px;
+}
+
+
+/*行*/
+.row
+{
+	position:relative;
+}
+
+/*僵尸吃掉了你的脑子*/
+#eatyou
+{
+	position:absolute;
+	left:150px;
+	top:100px;
+	display:none;
+	z-index:100;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
