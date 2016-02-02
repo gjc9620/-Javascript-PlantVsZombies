@@ -6,3 +6,7 @@
 
 ##功能:  
 &emsp; 至少可以玩了  
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gjc9620/-javascript-plantvszombies/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
