@@ -1,4 +1,5 @@
 # -Javascript-PlantVsZombies
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gjc9620/-javascript-plantvszombies/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 ##工具:
 &emsp; jquery
