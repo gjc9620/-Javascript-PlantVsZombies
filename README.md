@@ -1,4 +1,4 @@
- plantVsZombies <br/>
+ # plantVsZombies <br/>
  [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gjc9620/-javascript-plantvszombies/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 
